@@ -1,5 +1,6 @@
 # Create A Beautiful Responsive Website in HTML and CSS
 
+![Create-A-Beautiful-Responsive-Website-in-HTML-and-CSS](https://github.com/whowalkingupme/Website-Homepage-HTML-CSS/assets/46256884/c3750138-b184-4ab6-afb8-4fe9050d2129)
 
 In today’s age, having a basic understanding of web development can be incredibly useful. Whether you want to showcase your portfolio, start a blog, or just experiment with web design, creating a simple website homepage is a great place to start.
 
